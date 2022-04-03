@@ -1,6 +1,5 @@
 # Isometric Games
 **Unity Version:** 2020.3.30f1
-|-----------------------------------------------------------------------------------------------------------------------------------------|
 
 ## Isometric Movement
 **File Path:** isometric-games/isometric/
@@ -18,8 +17,6 @@ After _Running_ the Scene, You can use **Arrow keys** or **A, W, S, D** keys to 
 7. South-East
 8. South-West
 
-|-----------------------------------------------------------------------------------------------------------------------------------------|
-|-----------------------------------------------------------------------------------------------------------------------------------------|
 
 ## Isometric Object Replacement
 **File Path:** isometric-games/isometric/Isometric Plane
@@ -37,6 +34,5 @@ After _Running_ the game you will see a Buttom named **Click to Add Object**.
 7. If you drop the GameObject it will be destroyed. And you if you changed its location then you can place it.
 8. You can Drag and Drop any GameObject anytime anywhere except on tiles those are already green.
 
-|-----------------------------------------------------------------------------------------------------------------------------------------|
 
 ### Thankyou, Please comment in case of any query.

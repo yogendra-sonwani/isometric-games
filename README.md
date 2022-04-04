@@ -19,7 +19,7 @@ After _Running_ the Scene, You can use **Arrow keys** or **A, W, S, D** keys to 
 
 
 ## Isometric Object Replacement
-**File Path:** isometric-games/isometric/Isometric Plane
+**File Path:** isometric-games/Isometric Plane
 
 ### How to
 
